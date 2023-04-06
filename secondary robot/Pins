@@ -1,0 +1,29 @@
+All from front view
+
+IR array
+A0 - left 
+A7 - right 
+
+Motors
+left - 4,5  motor 2
+Right - 2,3  motor 1
+
+Colour sensor
+s0 9 
+s1 8
+s2 7
+s3 6
+
+Ultrasonic
+Triger - 23 purple
+Echo - 22 white
+
+NRF24L01
+CSN 11
+CE 12
+
+RGB
+
+R-25
+G-29
+B-27

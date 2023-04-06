@@ -1,0 +1,7 @@
+base speed = 150
+
+const float kp = 4.45;
+const float ki = 0.0076; 
+const float kd = 1.95; 
+
+
