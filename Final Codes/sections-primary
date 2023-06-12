@@ -1,0 +1,24 @@
+#section 1  - line maze
+
+#section 2 - unloarding box
+  subsection 1 - go forward and turn right
+  subsection 2 - go that line some distance and turn
+  subsection 3 - come back along that line and unloarding
+  subsection 4 - close the unloading door and turn to correct path
+  subsection 5 - line following  and turn in junction
+  subsection 6 - entering to Y junction
+
+#section 3 - Y junction/Avoiding Box
+  subsection 1 - entering to right path
+  subsection 2 - line following until finding the box
+  subsection 3 - if its find the box , go to left side
+  subsection 4 - finding the box,if not exiting from Y(exiting Y from left)
+  subsection 5 - go from left side to right side
+  subsection 6 - exiting Y from right
+
+#section 4 - Checkpoint 2
+  subsection 1 - stop at the box ,go forward , transmitt to secondary robot
+  subsection 2 - waiting for reciving color
+  subsection 3 - go to line following 
+
+#section 5 - finding correct box and drop it

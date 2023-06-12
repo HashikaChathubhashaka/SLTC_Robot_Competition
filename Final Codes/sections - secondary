@@ -1,0 +1,18 @@
+#section 1
+subsection 1 - wait until start command.
+subsection 2 - line following to the gate
+subsection 3 - wait until go command (go after door is open)
+
+#section 2
+subsection 1 - dotteted line following unti box detected and trasmitting the color
+subsection 2 - rotate 180
+subsection 3 - line following until junction is comming and rotate 90
+
+#section 3
+subsection 1 - line following until door is close
+subsection 2 - wait until go command
+
+#section 4
+subsection 1 - line following until left hand juction finding and rotate and come back
+subsection 2 - counting 3 white bars , stop at 3rd and rotate
+subsection 3 - line following again unit 90 degree is find
